@@ -2,7 +2,7 @@
 
 The best TODO editor ever created.
 
-Adds simple syntax highlighting and once simple mapping for files named "TODO"
+Adds simple syntax highlighting and one simple mapping for files named "TODO"
 (or "todo").
 
 Format recognized is as follows:
